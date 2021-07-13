@@ -1,4 +1,5 @@
 package Work;
+//SingleTon class provide the facility to create only one instance object of a class
 
 class SingleTon
 {
